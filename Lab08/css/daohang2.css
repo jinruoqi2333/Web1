@@ -1,0 +1,28 @@
+.menu{
+         background-image: url(../image/bj.png);
+         background-repeat: no-repeat;
+         padding-left:25px;
+         padding-right:30px;
+    }
+.first{
+	background:url(../image/header.png) no-repeat;
+	height:60px;
+	width:300px;
+	padding:10px 100px;
+}
+.second{
+	background:url(../image/lvbiaoti.png) no-repeat;
+	height:35px;
+	width:300px;
+	padding:10px 50px;
+	color:white;
+}
+.third{
+	padding:0px 50px;
+	color:gray;
+	background:url(../image/baibiaoti.png) no-repeat;
+	height:40px;
+	width:300px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
