@@ -1,0 +1,109 @@
+#wrap{
+margin: auto;
+
+padding: 0px;
+}
+body{
+font-size: 12px;
+color:#522a06;
+font-family: '宋体';
+background-image:url(../images/bodybg.gif);
+}
+#header{
+height: 205px;
+background-image: url(../images/bg.gif);
+background-position: 50% 0%;
+background-repeat: no-repeat;
+}
+#banner{
+width: 1000px;
+margin-left: 180px;
+height: 134px;
+padding-top: 30px;
+}
+#nav{
+height: 40px;
+background-image: url(../images/nav.jpg);
+}
+.nav_body{
+width: 1200px;
+text-align: center;
+line-height: 40px;
+}
+.nav_content{
+float: left;
+width: 1000px;
+font-weight: bolder;
+color: white;
+
+}
+.nav_content a:link{
+color:#fff;
+text-decoration:none;
+}
+.nav_content a:hover{
+color: #f9f603;
+text-decoration:none;
+}
+.nav_search{
+width: 200px;
+float:left;
+margin-top: 10px;
+}
+#shuru{
+float: left;
+width: 140px;
+height: 21px;
+background-color: #f8f5ee;
+border:1px solid #f8f5ee;
+}
+#sousuo{
+float: left;
+width: 44px;
+height: 21px;
+background-color: #000;
+color:#fff;
+border:1px solid #f8f5ee;
+}
+#orange{
+	color: #f9f603;
+}
+
+
+#content{
+	height: 800px;
+}
+#peixun{
+	height: 280px;
+	width: 210px;
+	margin-top: 30px;
+	margin-left: 135px;
+	float: left;
+	background-image:url(../images/bg.png); 
+    border:1px solid #522a06;
+}
+
+
+
+
+
+#show_bg{
+	background-image:url(../images/show_bg.png); 
+    background-repeat: no-repeat;
+    width: 362px;
+    height: 300px;
+    text-align: center;
+}
+#footer{
+	height: 105px;
+	clear: both;
+	background-image:url(../images/foot.gif); 
+    background-repeat: no-repeat;
+}
+.youqinglianjie{
+	padding-top: 30px;
+}
+.youqinglianjie1 a:link{
+color:#522a06;
+text-decoration:none;
+}
